@@ -21,16 +21,10 @@
     <ClCompile Include="blah.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="一元多项式.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="text.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="测试用.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="杨杨.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

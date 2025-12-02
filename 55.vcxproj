@@ -127,8 +127,6 @@
     <ClCompile Include="blah.cpp" />
     <ClCompile Include="feid.cpp" />
     <ClCompile Include="text.cpp" />
-    <ClCompile Include="一元多项式.cpp" />
-    <ClCompile Include="杨杨.cpp" />
     <ClCompile Include="测试用.cpp" />
   </ItemGroup>
   <ItemGroup>
